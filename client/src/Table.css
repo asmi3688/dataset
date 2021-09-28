@@ -1,0 +1,32 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top:15px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    padding: 5px;
+  }
+   
+  .dataTable{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+  }
+  .centerTxt{
+    word-wrap:break-word;
+    text-align: center;
+  }
+  .lftTxt{
+    word-wrap:break-word;
+    text-align: left;
+  }
+  .searchBox{
+      height:30px;
+      width:25%;
+      border:1px solid #e0dddd;
+      border-radius: 5px;
+  }
